@@ -1,2 +1,2 @@
-Relación lineal entre la edad en la que se empieza a fumar y la expectativa de vida.
-Información tomada de Global Health Data Exchange http://ghdx.healthdata.org/gbd-results-tool.
+Relación lineal entre la mortalidad por cáncer de pulmón, como variable dependiente, y la edad y el consumo de tabaco como variables independientes.
+Información tomada de IMASS http://pnlee.co.uk/documents/refs/forey2002b.pdf
